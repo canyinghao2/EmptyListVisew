@@ -56,5 +56,5 @@ post();
 ![Example Image][1]
 ----------
 
-[1]: https://raw.github.com/canyinghao/EmptyListVisew/master/EmptyListVisew.gif
+[1]: https://raw.github.com/canyinghao2/EmptyListVisew/master/EmptyListVisew.gif
 
